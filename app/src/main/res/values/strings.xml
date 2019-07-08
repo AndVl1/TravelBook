@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travel Book</string>
+    <string name="add_place">Add place</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
